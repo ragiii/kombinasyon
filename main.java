@@ -9,7 +9,7 @@ public class main {
       
 
         System.out.println("C(n,r) bicimindeki n degerini giriniz: ");
-        n = input.nextInt;
+        n = input.nextInt();
         
         System.out.println("C(n,r) bicimindeki r degerini giriniz: ");
         r = input.nextInt();
